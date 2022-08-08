@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Frontend Developer, I trained at Platzi in the Web Development and JavaScript school. I have experience doing personal projects. I am passionate about learning and always being updated to improve both my technical skills and my soft skills. I also like to teach and work in a team sharing the knowledge acquired.
+
 <!--
 **BryanAndres/BryanAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
