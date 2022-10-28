@@ -15,7 +15,7 @@ I am a Frontend Developer, I trained at Platzi in the Web Development and JavaSc
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a Blockchain Developer (in process)
 
-<a href="https://www.twitter.com/glatescode" target="_blank" rel="noreferrer"><img
+<a href="https://twitter.com/DevBryan_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/glatescode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ### Skills
